@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device width, initial-scale=1.0">
+        <title>explore kenya</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <nav>
+    <h2>Explore kenya</h2>
+
+    <ul>
+        <li> <a href="#index.html"> Home</a> </li>
+        <li> <a href="#about.html"> About</a> </li>
+        <li> <a href="#destination.html"> destination</a> </li>
+        
+        
+    </ul>
+
+
+    </nav>
+    
+    <body>
+        <section id ="hero">
+            <div class="hero" id="home">
+
+            <h1> Explore different destination in kenya</h1> 
+
+        
+                <a href="#"> <button class="btn">Explore Destinations</button></a>
+
+            </div>
+
+            
+    </section>
+    
+    <section id="about">
+      <div class="about">
+       <h2> bout kenya</h2>
+
+
+
+      </div>
